@@ -1,0 +1,48 @@
+.feild--input {
+  width: 150px;
+  height: 23px;
+  border-radius: 5px;
+  border: 2px solid gray;
+}
+
+.feild {
+  display: flex;
+  flex-direction: column;
+  /* margin: 5px; */
+  /* margin-left: 0px; */
+}
+
+.feild--label {
+  text-align: left;
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+#load {
+  min-width: 100px;
+}
+
+#date {
+  min-width: 80px;
+}
+
+#driver {
+  min-width: 150px;
+}
+
+#brokerName {
+  min-width: 150px;
+}
+
+#brokerId {
+  min-width: 80px;
+}
+
+#pickup {
+  min-width: 180px;
+}
+
+#delivery {
+  min-width: 180px;
+}
